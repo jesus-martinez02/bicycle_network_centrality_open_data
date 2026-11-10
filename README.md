@@ -18,7 +18,7 @@ cd src/python
 # Install dependencies & activate venv
 uv sync
 source .venv/bin/activate
-# Get the OSM data (from the TUG server per the default config!)
+# Get the OSM data 
 cd ../../
 python3 src/python/src/bike_project/osm_data.py
 # Run the full simulation/centrality measurements!
@@ -41,6 +41,6 @@ python3 src/python/src/bike_project/main.py
 Other folders included in the repository, not affecting the general workflow to apply the model to a new city: 
 - calibration: Contains the code for calibration of the attraction coefficients based on BiciMad bike-sharing data from the city of Madrid.
 - validation: Acquisition and processing of datasets used for evaluation in the cities of Graz, Berlin and Hamburg.
-- results: Folder to produce the figures contained in the thesis
+- results: Folder to produce the figures/tables contained in the article
 
 

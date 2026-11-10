@@ -2,8 +2,6 @@
 
 This repository contains the code for the article Modeling Bicycle Network Centrality using a 4-Step Model and Open Data to Support Bicycle Infrastructure Development, submitted for review to the 2nd World Symposium on Sustainable Transport and Livability (WSSTL-2027)
 
-# Bicycle Maps Creation using Modified Centrality Metrics
-
 ## Getting started with the framework
 
 Prerequisites:
